@@ -6,3 +6,7 @@
 3. 3-D nanomaterials
 
 ![Image of Nanoparticle](https://upload.wikimedia.org/wikipedia/commons/6/6d/Mesoporous_Silica_Nanoparticle.jpg)
+
+``` javascript
+var myVar = "Hello, world!";
+```
